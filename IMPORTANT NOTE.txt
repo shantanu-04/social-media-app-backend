@@ -1,0 +1,1 @@
+ok so this project is not complete. the frontend was facing a lot of errors. so I decided to move on, because at the time of building this project, I was learning backend. the backend is complete tho. thanks.
